@@ -1,6 +1,8 @@
 <h1 align="center">  Hi there 👋, Welcome </h1>
 <h3 align="center"> Hello, i'm José Arthur, an undergraduate student in UFRN who Physics. I study Molecular Dynamics e simulations nanostructures. </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Josearthur266&label=Profile%20views&color=0e75b6&style=flat" alt="Josearthur266" /> </p>
+
 - 🔭 I’m currently working in the area Molecular Dynamics. 
 - 🌱 I’m currently learning about mechanical and tribological properties of graphene sheets.
 - 👨‍💻 Some of the projects I take part in are available at: https://github.com/PETfisicaUFRN/PET.py
