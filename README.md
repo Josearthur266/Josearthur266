@@ -8,8 +8,6 @@
 - 👨‍💻 Some of the projects I take part in are available at: https://github.com/PETfisicaUFRN/PET.py
 - 📫 How to reach me: jose.arthur.016@ufrn.edu.br 
 - 📄 Know about my experiences: http://lattes.cnpq.br/6298203041911259
-- ⚡ Fun fact: 
-
 
 <div>
   <a href="https://github.com/Josearthur266">
