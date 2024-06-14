@@ -9,6 +9,10 @@
 - 📫 How to reach me: jose.arthur.016@ufrn.edu.br 
 - 📄 Know about my experiences: http://lattes.cnpq.br/6298203041911259
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 <div>
   <a href="https://github.com/Josearthur266">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Josearthur266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
