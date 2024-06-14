@@ -10,7 +10,7 @@
 - 📄 Know about my experiences: http://lattes.cnpq.br/6298203041911259
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Josearthur266&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <div>
