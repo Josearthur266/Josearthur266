@@ -6,7 +6,7 @@
 - 🔭 I’m currently working in the area Molecular Dynamics. 
 - 🌱 I’m currently learning about mechanical and tribological properties of graphene sheets.
 - 👨‍💻 Some of the projects I take part in are available at: https://github.com/PETfisicaUFRN/PET.py
-- 📫 How to reach me: jose.arthur.016@ufrn.edu.br 
+- 📫 How to reach me: oliveira266arthur.fisica@gmail.com 
 - 📄 Know about my experiences: http://lattes.cnpq.br/6298203041911259
 
 <p align="center">
